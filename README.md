@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🛠 Tech Stack 🛠
+<!--#### 🛠 Tech Stack 🛠
 ###### Techs that I've used at least once
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 ![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)-->
 
