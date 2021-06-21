@@ -1,3 +1,4 @@
+<div align = "center">
 ### Hi there 👋
 -------------------
 #### 🛠 Tech Stack 🛠
@@ -20,4 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
 
 ###### [WebProject](https://areyh817.github.io/MyWebSite/main.html)
+</div>
 
