@@ -1,6 +1,5 @@
 <div align = "center">
-### Hi there 👋
--------------------
+
 #### 🛠 Tech Stack 🛠
 ###### Techs that I've used at least once
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -20,6 +19,7 @@
 ![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
 
+#### My Web PortFolio
 ###### [WebProject](https://areyh817.github.io/MyWebSite/main.html)
 </div>
 
