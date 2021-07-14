@@ -21,7 +21,7 @@ I am student in Mirim girls' information science highschool in south korea.
 
 - 🌱 I’m currently learning PHP, TypeScript!
 - 💬 Ask me about EVERYTHING!!
-- 📫 How to reach me: [Facebook](fb.me/https://www.facebook.com/profile.php?id=100011059009665)
+- 📫 How to reach me: s2037@e-mirim.hs.kr
 
 ![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
