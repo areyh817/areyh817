@@ -19,7 +19,7 @@
 
 I am student in Mirim girls' information science highschool in south korea.
 
-- 🌱 I’m currently learning PHP, TypeScript!
+- 🌱 I’m currently learning Kotlin!
 - 💬 Ask me about EVERYTHING!!
 - 📫 How to reach me: s2037@e-mirim.hs.kr
 
