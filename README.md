@@ -23,8 +23,9 @@ I am student in Mirim girls' information science highschool in south korea.
 - 💬 Ask me about EVERYTHING!!
 - 📫 How to reach me: s2037@e-mirim.hs.kr
 
-![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)
+<!--![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
 
 <!--#### My Web PortFolio
 ###### [WebProject](https://areyh817.github.io/MyWebSite/main.html)-->
