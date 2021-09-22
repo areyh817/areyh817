@@ -1,4 +1,4 @@
-<!--#### 🛠 Tech Stack 🛠
+####  :computer: Tech Stack
 ###### Techs that I've used at least once
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
@@ -13,15 +13,12 @@
 <br>
 <br>
 <br>
-<br>-->
-  
- 
 
-I am student in Mirim girls' information science highschool in south korea.
+##### I am student in Mirim girls' information science highschool in south korea.
 
-- 🌱 I’m currently learning Kotlin!
-- 💬 Ask me about EVERYTHING!!
-- 📫 How to reach me: s2037@e-mirim.hs.kr
+###### - 🌱 I’m currently learning Kotlin!
+###### - 💬 Ask me about EVERYTHING!!
+###### - 📫 How to reach me: s2037@e-mirim.hs.kr
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
