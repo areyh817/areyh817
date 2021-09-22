@@ -1,4 +1,15 @@
+I am student in Mirim girls' information science highschool in south korea.
+- 🌱 I’m currently learning Kotlin!
+- 💬 Ask me about EVERYTHING!!
+- 📫 How to reach me: s2037@e-mirim.hs.kr 
+
+
+<br>
+
 ####  :muscle: Skills
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
+
 ###### Platforms & Languages
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
@@ -17,11 +28,8 @@
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/><br>
 <br>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
-###### I am student in Mirim girls' information science highschool in south korea.
-###### - 🌱 I’m currently learning Kotlin!
-###### - 💬 Ask me about EVERYTHING!!
-###### - 📫 How to reach me: s2037@e-mirim.hs.kr 
+
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
 
