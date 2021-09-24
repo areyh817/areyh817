@@ -5,10 +5,9 @@ I am student in Mirim girls' information science highschool in south korea.
 
 
 <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
 
-####  :muscle: Skills
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
+<!--####  :muscle: Skills
 
 ###### Platforms & Languages
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
@@ -27,7 +26,7 @@ I am student in Mirim girls' information science highschool in south korea.
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/><br>
 <br>
-<br>
+<br>-->
 
 
 
