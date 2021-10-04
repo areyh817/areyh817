@@ -5,7 +5,7 @@ I am student in Mirim girls' information science highschool in south korea.
 
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats"/>
 
 <!--####  :muscle: Skills
 
@@ -29,11 +29,11 @@ I am student in Mirim girls' information science highschool in south korea.
 <br>-->
 
 
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
+![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact)](https://github.com/areyh817/github-readme-stats)
 
 
 <!--#### My Web PortFolio
 ###### [WebProject](https://areyh817.github.io/MyWebSite/main.html)-->
-<!--![areyh817's github stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true)-->
+<!--)-->
 
