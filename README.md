@@ -1,5 +1,5 @@
 I am student in Mirim girls' information science highschool in south korea.
-- 🌱 I’m currently learning Kotlin, JavaScript!
+- 🌱 I’m currently learning Kotlin, Android!
 - 💬 Ask me about EVERYTHING!!
 - 📫 How to reach me: s2037@e-mirim.hs.kr 
 
@@ -28,8 +28,4 @@ I am student in Mirim girls' information science highschool in south korea.
 <br>
 <br>-->
 
-
-<!--#### My Web PortFolio
-###### [WebProject](https://areyh817.github.io/MyWebSite/main.html)-->
-<!--)-->
 
