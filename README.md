@@ -3,6 +3,8 @@ I am student in Mirim girls' information science highschool in south korea.
 - 💬 Ask me about EVERYTHING!!
 - 📫 How to reach me: s2037@e-mirim.hs.kr 
 
+<br>
+<br>
 
 <div align="center">
   
