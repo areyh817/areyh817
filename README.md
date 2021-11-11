@@ -10,7 +10,7 @@ I am student in Mirim girls' information science highschool in south korea.
 <div align="center">
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true&theme=buefy" width=49.2% />
+<img src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats" width=49.2%/>
 </a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=areyh817&theme=buefy" width=49.2% />
