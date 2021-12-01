@@ -16,5 +16,5 @@ I am student in Mirim girls' information science highschool in south korea.
 
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=areyh817&theme=react-dark&bg_color=f1f3f5&hide_border=true&line=AB90E6&color=AB90E8" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=areyh817&theme=react-dark&bg_color=000&hide_border=true&line=AB90E6&color=AB90E8" width=98%/>
 </a>
