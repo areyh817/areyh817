@@ -1,9 +1,9 @@
 <br>
 
 I am student in Mirim girls' information science highschool in south korea.
-- 🌱 I’m currently learning Kotlin, React, node.js!
-- 💬 Ask me about EVERYTHING!!
-- 📫 How to reach me: areyh817@gmail.com
+🌱 I’m currently learning Kotlin, React, node.js!
+💬 Ask me about EVERYTHING!!
+📫 How to reach me: areyh817@gmail.com
 
 <br>
 
