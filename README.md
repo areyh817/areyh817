@@ -8,11 +8,7 @@ I am student in Mirim girls' information science highschool in south korea.<br>
 <br>
 
 <div align="center">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=areyh817&count_private=true&theme=buefy&hide=contribs&custom_title=My+Github+Stats" width=49.2% float:left;/>
-</a>
-  
+
 
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
