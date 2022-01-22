@@ -3,7 +3,7 @@
 I am student in Mirim girls' information science highschool in south korea.<br>
 🌱 I’m currently learning Kotlin, React, node.js!<br>
 💬 Ask me about EVERYTHING!!<br>
-📫 How to reach me: s2037@e-mirim.hs.kr
+📫 How to reach me: areyh817@gmail.com
 
 <br>
 
