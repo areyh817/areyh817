@@ -7,9 +7,6 @@ I am student in Mirim girls' information science highschool in south korea.<br>
 
 <br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=areyh817&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyh817&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<div align="center">
   
   
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
