@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
 <br><br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -13,6 +13,11 @@
 <!-- 
 <br><br><br>
 
-![](https://github.com/hing9u/github-stats-transparent/blob/output/generated/languages.svg) -->
+![](https://github.com/hing9u/github-stats-transparent/blob/output/generated/languages.svg) 
 
-  </div>
+  </div>-->
+
+I am student in Mirim girls' information science highschool in south korea.<br>
+🌱 I’m currently learning Golang, React !<br>
+💬 Ask me about EVERYTHING!!<br>
+📫 How to reach me: s2037@e-mirim.hs.kr
